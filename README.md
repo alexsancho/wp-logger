@@ -54,3 +54,7 @@ Credits
 -------
 
 The idea was taken from [Codeforest article](http://www.codeforest.net/debugging-php-in-browsers-javascript-console)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/alexsancho/wp-logger/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
